@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"商业计划书专家：项目信息输入→市场/产品/模式/财务章节生成→投资人自检→10页路演版，融资一条龙","name":"lhg-bp","source":"./"}]}
